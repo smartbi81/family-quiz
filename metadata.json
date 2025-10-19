@@ -1,0 +1,5 @@
+{
+  "name": "Family Quiz Challenge",
+  "description": "An interactive Kahoot-style quiz game for the whole family. Parents can create quizzes, and everyone can join in on the fun to see who knows the most!",
+  "requestFramePermissions": []
+}
